@@ -12,16 +12,7 @@ I’m software engineer with focus on full-stack development.
 - 🤙 &nbsp; Database tools: MySQL, SQL
 - 🤞 &nbsp; Version Control: Git
 - 🤙 &nbsp; Methodologies: Agile, Scrum
-<br>  
-  
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on improving myself
-- 🌱 &nbsp; I’m currently learning C#
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DarjaLeonova?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/darja-leonova/)
-- 📚 &nbsp; When I am free, I read books about psychology and romans
-<br>
+<br> 
 
 ### 🔨 Languages and Tools:
 
@@ -35,8 +26,3 @@ I’m software engineer with focus on full-stack development.
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/dordje21/github-stats-transparent'>
-
-![Stats Overview](https://github.com/dordje21/github-stats-transparent/blob/output/generated/overview.svg)
-![Most Used Languages](https://github.com/dordje21/github-stats-transparent/blob/output/generated/languages.svg)
-  
