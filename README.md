@@ -15,15 +15,6 @@ I’m software engineer with focus on full-stack development.
 <br> 
 
 ### 🔨 Languages and Tools:
-
-<img align="left" alt="C#" height ="42px" src="https://learn.microsoft.com/de-de/windows/images/csharp-logo.png" style="pointer-event: none"> 
-
-<a href="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" target="_blank"><img align="left" alt=".NET" height ="42px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></a>
-<a href="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<br>
-<br>
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
 
 ### 📊 Github Stats
