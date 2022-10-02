@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hey 👋, I'm Mykhailo Lytvyn!
+<a href='https://www.linkedin.com/in/michaellytvyn-master'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/DarjaLeonova/DarjaLeonova/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<br/>
 
-<!--
-**dordje21/dordje21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m software engineer with focus on full-stack development.
 
-Here are some ideas to get you started:
+### 💪 More About My Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 &nbsp; Back-end development: JAVA, LIQUID, PHP
+- 🤚 &nbsp; Front-end development: JavaScript, HTML5, CSS, SASS/SCSS/LESS, ReactJs, ReactNative
+- 🖖 &nbsp; Test Tools: Postman 
+- 🤙 &nbsp; Database tools: MySQL, SQL
+- 🤞 &nbsp; Version Control: Git
+- 🤙 &nbsp; Methodologies: Agile, Scrum
+<br>  
+  
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on improving myself
+- 🌱 &nbsp; I’m currently learning C#
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/DarjaLeonova?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/darja-leonova/)
+- 📚 &nbsp; When I am free, I read books about psychology and romans
+<br>
+
+### 🔨 Languages and Tools:
+
+<a href="https://learn.microsoft.com/de-de/windows/images/csharp-logo.png" target="_blank"><img align="left" alt="C#" height ="42px" src="https://learn.microsoft.com/de-de/windows/images/csharp-logo.png"></a>
+<a href="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" target="_blank"><img align="left" alt=".NET" height ="42px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></a>
+<a href="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<br>
+<br>
+
+### 📊 Github Stats
+<a href='https://github.com/dordje21/github-stats-transparent'>
+
+![Stats Overview](https://github.com/dordje21/github-stats-transparent/blob/output/generated/overview.svg)
+![Most Used Languages](https://github.com/dordje21/github-stats-transparent/blob/output/generated/languages.svg)
+  
