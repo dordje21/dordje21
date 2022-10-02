@@ -16,7 +16,7 @@ I’m software engineer with focus on full-stack development.
 
 ### 🔨 Languages and Tools:
 
-<img align="left" alt="C#" height ="42px" src="https://learn.microsoft.com/de-de/windows/images/csharp-logo.png"> 
+<img align="left" alt="C#" height ="42px" src="https://learn.microsoft.com/de-de/windows/images/csharp-logo.png" style="pointer-event: none"> 
 
 <a href="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" target="_blank"><img align="left" alt=".NET" height ="42px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></a>
 <a href="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
