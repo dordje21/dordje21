@@ -31,5 +31,3 @@ I’m software engineer with focus on full-stack development.
 ![](https://raw.githubusercontent.com/dordje21/statistics/master/generated/languages.svg#gh-light-mode-only)
 
 
-
-<img src="https://i.gifer.com/embedded/download/Yy7O.gif"> 
