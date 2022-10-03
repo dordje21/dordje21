@@ -26,3 +26,10 @@ I’m software engineer with focus on full-stack development.
 <br><br>
 
 ### 📊 Github Stats
+
+
+
+![](https://raw.githubusercontent.com/dordje21/statistics/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dordje21/statistics/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/dordje21/statistics/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dordje21/statistics/master/generated/languages.svg#gh-light-mode-only)
