@@ -15,8 +15,6 @@ I’m software engineer with focus on full-stack development.
 <br> 
 
 ### 🔨 Languages and Tools:
----
-
  
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50" align="left"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" width="50" height="50" align="left"/>  
@@ -27,7 +25,9 @@ I’m software engineer with focus on full-stack development.
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" align="left"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" align="left"/>  
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" width="50" height="50" align="left"/>
-<br>
+
+
+
 <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" width="50" height="50" align="left"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/github-2.svg" width="50" height="50" align="left"/>  
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="50" height="50" align="left"/>
@@ -40,7 +40,5 @@ I’m software engineer with focus on full-stack development.
 <br>
 
 <br><br>
-
----
 
 ### 📊 Github Stats
