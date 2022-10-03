@@ -15,6 +15,15 @@ I’m software engineer with focus on full-stack development.
 <br> 
 
 ### 🔨 Languages and Tools:
-<img align="left" height="42px" background="#fff" borderRadius="10px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
+---
+
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50" align="left"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" width="50" height="50" align="left"/>  
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="50" height="50" align="left"/>
+
+<br><br>
+
+---
 
 ### 📊 Github Stats
