@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Mykhailo Lytvyn!
-<a href='https://www.linkedin.com/in/michaellytvyn-master'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/DarjaLeonova/DarjaLeonova/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<br/>
+
+https://www.linkedin.com/in/michaellytvyn-master
 
 I’m software engineer with focus on full-stack development.
 
