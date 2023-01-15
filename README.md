@@ -6,8 +6,8 @@ I’m software engineer with focus on full-stack development.
 
 ### 💪 More About My Skills:
 
-- 👋 &nbsp; Back-end development: JAVA, LIQUID, PHP
 - 🤚 &nbsp; Front-end development: JavaScript, HTML5, CSS, SASS/SCSS/LESS, ReactJs, ReactNative
+- 👋 &nbsp; Back-end development: NODEJS, JAVA, LIQUID, PHP 
 - 🖖 &nbsp; Test Tools: Postman 
 - 🤙 &nbsp; Database tools: MySQL, SQL
 - 🤞 &nbsp; Version Control: Git
