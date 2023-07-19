@@ -1,18 +1,12 @@
 ## Hey 👋, I'm Michael Lytvyn!
+
+# 💫 About Me:
+👨‍💻 I’m currently working on: Full-stack development projects<br>👨‍🎓 I’m looking to collaborate on: Exciting web application development initiatives<br>🤝 I’m looking for help with: Solving complex coding challenges and enhancing my skills<br>🌱 I’m currently learning: New technologies and frameworks to stay up-to-date<br>💬 Ask me about: Anything related to software development, programming languages, or web development<br>⚡ Fun fact: Why don't scientists trust atoms? Because they make up everything!
+<br> 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michaellytvyn-master) 
 https://www.linkedin.com/in/michaellytvyn-master
-
-I’m software engineer with focus on full-stack development.
-
-### 💪 More About My Skills:
-
-- 🤚 &nbsp; Front-end development: JavaScript, HTML5, CSS, SASS/SCSS/LESS, ReactJs, ReactNative
-- 👋 &nbsp; Back-end development: NODEJS, JAVA, LIQUID, PHP 
-- 🖖 &nbsp; Test Tools: Postman 
-- 🤙 &nbsp; Database tools: MySQL, SQL
-- 🤞 &nbsp; Version Control: Git
-- 🤙 &nbsp; Methodologies: Agile, Scrum
 <br> 
 
 # 💻 Tech Stack:
